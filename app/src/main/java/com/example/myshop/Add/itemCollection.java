@@ -14,46 +14,46 @@ public class itemCollection {
         item s = new item();
 
 
-        s.setTitle("Type1");
+        s.setTitle("Only Cartoon");
 
-        s.setImage(R.drawable.dairy);
+      //  s.setImage(R.drawable.dairy);
         events.add(s);
 
 
 
         s = new item();
-        s.setTitle("Type2");
+        s.setTitle("Cartoon + box + pices");
 
 
-        s.setImage(R.drawable.dairy);
+        //s.setImage(R.drawable.dairy);
         events.add(s);
 
 
 
         s = new item();
-        s.setTitle("Type3");
+        s.setTitle("cartoon + pices");
 
-        s.setImage(R.drawable.dairy);
+       // s.setImage(R.drawable.dairy);
         events.add(s);
 
         s = new item();
-        s.setTitle("Type4");
+        s.setTitle("cartoon + lari + pices");
 
-        s.setImage(R.drawable.dairy);
+       // s.setImage(R.drawable.dairy);
         events.add(s);
 
         s = new item();
-        s.setTitle("Type5");
+        s.setTitle("only bag");
 
 
-        s.setImage(R.drawable.dairy);
+       // s.setImage(R.drawable.dairy);
         events.add(s);
 
         s = new item();
-        s.setTitle("Typet6");
+        s.setTitle("bag + kg");
 
 
-        s.setImage(R.drawable.dairy);
+      //  s.setImage(R.drawable.dairy);
         events.add(s);
 
 
